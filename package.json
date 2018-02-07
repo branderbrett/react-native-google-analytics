@@ -8,9 +8,11 @@
   "description": "Google Analytics for React Native!",
   "main": "index.js",
   "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
-  "contributors": [{
-    "name" : "Branding Brand"
-  }],
+  "contributors": [
+    {
+      "name": "Branding Brand"
+    }
+  ],
   "keywords": [
     "react",
     "native",
@@ -23,5 +25,8 @@
     "google",
     "experiment",
     "variant"
-  ]
+  ],
+  "dependencies": {
+    "@brandingbrand/pirate-network": "^1.0.1"
+  }
 }
